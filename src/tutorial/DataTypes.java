@@ -17,6 +17,7 @@ public class DataTypes {
         byte myByte = 127; // Byte (-128) to (127)
         double myScientificDouble = 35e3d; // Scientific Number using Double
         float myScientificFloat = 12e3f; // Scientific Number using Float
+        char myChar = 60; // < (ASCII)
 
         System.out.println(myNum);
         System.out.println(myFloatNum);
@@ -28,6 +29,7 @@ public class DataTypes {
         System.out.println(myByte);
         System.out.println(myScientificDouble);
         System.out.println(myScientificFloat);
+        System.out.println(myChar);
 
         /*
          * 5
