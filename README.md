@@ -1,3 +1,19 @@
 # Solid Base Java
 
-- Java HOME
+- Syntax;
+- Output;
+- Comments;
+- Variables;
+- Data Types:
+  - primitive types:
+    - byte;
+    - short;
+    - int;
+    - long;
+    - float;
+    - double;
+    - bool;
+  - non-primitive types:
+    - String;
+    - Arrays;
+    - Classes.
