@@ -3,7 +3,7 @@ package tutorial;
 public class DataTypes {
 
     public static void main(String[] args) {
-        showAllDataTypes();        
+        showAllDataTypes();
     }
 
     public static void showAllDataTypes() {
@@ -15,6 +15,8 @@ public class DataTypes {
         short myShort = 5000; // Short (-32768) to (32767)
         double myDouble = 2.45d; // Double
         byte myByte = 127; // Byte (-128) to (127)
+        double myScientificDouble = 35e3d; // Scientific Number using Double
+        float myScientificFloat = 12e3f; // Scientific Number using Float
 
         System.out.println(myNum);
         System.out.println(myFloatNum);
@@ -24,6 +26,20 @@ public class DataTypes {
         System.out.println(myShort);
         System.out.println(myDouble);
         System.out.println(myByte);
-    }
+        System.out.println(myScientificDouble);
+        System.out.println(myScientificFloat);
 
+        /*
+         * 5
+         * 5.99
+         * D
+         * true
+         * Hello
+         * 5000
+         * 2.45
+         * 127
+         * 35000.0
+         * 12000.0
+         */
+    }
 }
