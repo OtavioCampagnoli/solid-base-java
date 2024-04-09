@@ -17,3 +17,7 @@
     - String;
     - Arrays;
     - Classes.
+- Type Casting
+    - Automatic Casting;
+    - Narrowing Casting;
+  
