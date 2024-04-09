@@ -31,6 +31,14 @@ public class DataTypes {
         System.out.println(myScientificFloat);
         System.out.println(myChar);
 
+
+        double castingAutomatic = myNum;
+        int narrowingCasting = (int) castingAutomatic;
+        System.out.println(castingAutomatic); // 5.0
+        castingAutomatic = 2.50; // 2.50
+        System.out.println(castingAutomatic); // 2.50
+        System.out.println(narrowingCasting); // 5
+
         /*
          * 5
          * 5.99
