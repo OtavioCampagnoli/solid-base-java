@@ -20,6 +20,11 @@
 - Type Casting
     - Automatic Casting;
     - Narrowing Casting;
+- Exception Handling:
+   - Try;
+   - Catch;
+   - finally.
 - Data Structure:
   - Arrays;
   - Lists.
+  
