@@ -27,4 +27,12 @@
 - Data Structure:
   - Arrays;
   - Lists.
-  
+- Conditionals:
+  - if;
+  - else;
+  - else if.
+- Loops:
+  - for;
+  - foreach;
+  - while;
+  - do while.
