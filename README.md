@@ -20,4 +20,6 @@
 - Type Casting
     - Automatic Casting;
     - Narrowing Casting;
-  
+- Data Structure:
+  - Arrays;
+  - Lists.
